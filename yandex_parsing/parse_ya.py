@@ -1,4 +1,3 @@
-from tkinter import SE
 from requests import post, Session
 from fake_useragent import UserAgent
 from lxml import html
